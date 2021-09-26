@@ -146,3 +146,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterController: {fileID: 3408418015450448550}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 8
